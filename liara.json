@@ -1,0 +1,5 @@
+{
+    "api-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI1YzNjOTJiMDEwODkxODAwMTIwOTE0ZDciLCJpYXQiOjE1NDc0NzM1ODR9.I6RQRVLNQXJSMPuCGcORPZimoAITFqpnJkYzYWPextw",
+    "project": "django",
+    "port": "8000"
+}
